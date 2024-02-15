@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Leptop",
+            "price": "$1200",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eligendi vel cum tempore incidunt cumque.",
+            "img": "https://cdn.pixabay.com/photo/2015/02/03/13/25/desk-622532_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Phone",
+            "price": "$1200",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eligendi vel cum tempore incidunt cumque.",
+            "img": "https://cdn.pixabay.com/photo/2017/08/07/14/39/laptop-2604524_1280.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Phone",
+            "price": "$1200",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eligendi vel cum tempore incidunt cumque.",
+            "img": "https://cdn.pixabay.com/photo/2017/01/11/15/26/busy-1972065_1280.jpg"
+        }
+    ]
+}
